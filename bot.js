@@ -4,7 +4,7 @@ const _ = require('lodash');
 
 require('dotenv').config();
 
-const botmaster = new Botmaster();
+const botmaster = new Botmaster({port : process.env.PORT || 5000});
 const SessionWare = require('botmaster-session-ware');
 
 // @todo Add more clients later!
