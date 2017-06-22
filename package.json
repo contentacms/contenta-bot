@@ -1,0 +1,17 @@
+{
+  "name": "contenta_recipe_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "botmaster": "^3.1.1",
+    "botmaster-messenger": "^1.0.1",
+    "botmaster-session-ware": "^1.1.0",
+    "botmaster-telegram": "^1.0.0",
+    "botmaster-twitter-dm": "^1.0.0",
+    "dotenv": "^4.0.0",
+    "lodash": "^4.17.4"
+  }
+}
