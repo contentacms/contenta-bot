@@ -4,7 +4,7 @@ One major advantage of a decoupled approach is to have a rich data model, which
 can be accessed from more places.
 
 These days a really hiped feature are chatbots. This project provides one example
-implementation using (botmaster.ai)[http://botmasterai.com/documentation/latest/].
+implementation using [botmaster.ai](http://botmasterai.com/documentation/latest/).
 Please experiment with other tools, and please join the #contenta slack 
 
 ![Bot interaction animation](docs/image.gif) 
