@@ -1,4 +1,4 @@
-## Contenta recipe bot
+## Contenta bot
 
 One major advantage of a decoupled approach is to have a rich data model, which
 can be accessed from more places.
