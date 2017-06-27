@@ -7,6 +7,8 @@ These days a really hiped feature are chatbots. This project provides one exampl
 implementation using (botmaster.ai)[http://botmasterai.com/documentation/latest/].
 Please experiment with other tools, and please join the #contenta slack 
 
+![Bot interaction animation](docs/image.gif) 
+
 ## Setup
 
 * Set up .env variables
